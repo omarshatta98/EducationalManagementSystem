@@ -1,0 +1,24 @@
+C:\Users\DELL\Desktop\Edu_System\Edu_System\bin\Debug\Edu_System.exe.config
+C:\Users\DELL\Desktop\Edu_System\Edu_System\bin\Debug\Edu_System.exe
+C:\Users\DELL\Desktop\Edu_System\Edu_System\bin\Debug\Edu_System.pdb
+C:\Users\DELL\Desktop\Edu_System\Edu_System\obj\Debug\Edu_System.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Edu_System\Edu_System\obj\Debug\Edu_System.exe
+C:\Users\DELL\Desktop\Edu_System\Edu_System\obj\Debug\Edu_System.pdb
+D:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.exe.config
+D:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.exe
+D:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.pdb
+D:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.exe
+D:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.pdb
+D:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.csprojResolveAssemblyReference.cache
+E:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.exe.config
+E:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.exe
+E:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.pdb
+E:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.exe
+E:\3. My Projects\Edu_System\Edu_System\bin\Debug\Edu_System.pdb
+E:\3. My Projects\Edu_System\Edu_System\obj\Debug\Edu_System.csprojResolveAssemblyReference.cache
+E:\3. My Projects\Education System\Edu_System\bin\Debug\Edu_System.exe.config
+E:\3. My Projects\Education System\Edu_System\obj\Debug\Edu_System.exe
+E:\3. My Projects\Education System\Edu_System\obj\Debug\Edu_System.pdb
+E:\3. My Projects\Education System\Edu_System\bin\Debug\Edu_System.exe
+E:\3. My Projects\Education System\Edu_System\bin\Debug\Edu_System.pdb
+E:\3. My Projects\Education System\Edu_System\obj\Debug\Edu_System.csprojResolveAssemblyReference.cache
